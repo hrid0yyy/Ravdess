@@ -35,7 +35,7 @@ This project explores the **speech modality** of the [RAVDESS dataset](https://w
 
 ### 🔹 LSTM-based Model
 - **Training Accuracy**: ~90%
-- **Test Accuracy**: ~70%
+- **Test Accuracy**: ~65%
 
 > ⚡ Achieved impressive results on a small dataset — highlighting the strength of deep learning in speech emotion recognition.
 
